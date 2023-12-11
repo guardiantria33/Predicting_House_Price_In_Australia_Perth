@@ -1,4 +1,4 @@
-# Predicting House Price In Australia_Perth
+# Predicting House Price In Australia Perth
 Predict house prices in Australia with suburbs in the Perth area by comparing several model : KKN, SVM, Adaboost, Decision Tree and Random Forest model
 
 # Objective
